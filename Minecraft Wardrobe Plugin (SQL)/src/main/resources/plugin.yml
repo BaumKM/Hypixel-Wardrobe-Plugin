@@ -1,0 +1,12 @@
+name: wardrobe_plugin_1
+author: BaumKM
+main: baumkm.wardrobe.main.Main
+version: 1.0.1
+description: wardrobe plugin inspired by the wardrobe from hypixel skyblock
+api-version: 1.17
+commands:
+  wardrobe:
+    description: opens your wardrobe
+    usage: §6 use /wardrobe
+    aliases: [w]
+
